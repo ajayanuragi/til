@@ -2,4 +2,4 @@
 
 ## All the things that I learnt in Java Language
 
-- [Square Root](./square-root.md)
+- [Methods](./methods.md)
